@@ -8,7 +8,7 @@ print("="*6 + "\nREADER LIVE\n")
 while (True): 
     try:
         id, text= reader.read()
-        print(id)
-        print(text)
+        print("ID:", id)
+        print("Text:",text)
     finally:
         GPIO.cleanup()
