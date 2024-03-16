@@ -33,6 +33,7 @@
 - [Integrate RFID](https://pimylifeup.com/raspberry-pi-rfid-rc522/)
 - [LGPIO for ubuntu](https://ubuntu.com/tutorials/gpio-on-raspberry-pi#3-basic-gpio-example)
 - [Installing PHP on Ubuntu](https://ubuntu.com/server/docs/programming-php)
+- [Python MFRC522 Doc](https://pypi.org/project/mfrc522-python/#using-simplemfrc522-class-1)
 
 ## Hardware
 - RFID reader --> rc522
