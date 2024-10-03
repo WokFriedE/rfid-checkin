@@ -33,6 +33,7 @@
 - [Integrate RFID](https://pimylifeup.com/raspberry-pi-rfid-rc522/)
 - [LGPIO for ubuntu](https://ubuntu.com/tutorials/gpio-on-raspberry-pi#3-basic-gpio-example)
 - [Installing PHP on Ubuntu](https://ubuntu.com/server/docs/programming-php)
+- https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root
 
 ## Hardware
 - RFID reader --> rc522
