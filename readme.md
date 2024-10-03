@@ -52,6 +52,7 @@
 - [Installing PHP on Ubuntu](https://ubuntu.com/server/docs/programming-php)
 - [Python MFRC522 Doc](https://pypi.org/project/mfrc522-python/#using-simplemfrc522-class-1)
 - [OLED Setup](https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/#google_vignette)
+- https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root
 
 ## Hardware
 - RFID reader --> rc522
